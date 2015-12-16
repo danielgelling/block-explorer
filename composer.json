@@ -1,0 +1,14 @@
+{
+    "name": "danielgelling/block-explorer",
+    "description": "PHP Library for blockexplorer.com's REST API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Gelling",
+            "email": "info@danielgelling.nl"
+        }
+    ],
+    "require": {
+        "danielgelling/http": "dev-master"
+    }
+}

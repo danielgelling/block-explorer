@@ -1,0 +1,32 @@
+[
+    {
+        "name": "danielgelling/http",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/danielgelling/http.git",
+            "reference": "73ba8deea19d2144fbc11a9f9dd8830aae689da5"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/danielgelling/http/zipball/73ba8deea19d2144fbc11a9f9dd8830aae689da5",
+            "reference": "73ba8deea19d2144fbc11a9f9dd8830aae689da5",
+            "shasum": ""
+        },
+        "time": "2015-12-16 12:32:01",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Daniel Gelling",
+                "email": "info@danielgelling.nl"
+            }
+        ],
+        "description": "Package with which you can easily perform HTTP requests in PHP"
+    }
+]
