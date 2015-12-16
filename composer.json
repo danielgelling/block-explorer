@@ -8,6 +8,11 @@
             "email": "info@danielgelling.nl"
         }
     ],
+     "autoload": {
+        "psr-4": {
+            "BlockExplorer\\": "src/"
+        },
+    },
     "require": {
         "danielgelling/http": "^0.1.1"
     }
