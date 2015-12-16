@@ -4,12 +4,12 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d02b1aea5ef598e1ee157c40a5fbc6ef",
-    "content-hash": "bf9a62ec10f1c335b695bd8fc985e3ef",
+    "hash": "7c5aad95ca4e83f7cdce61017f32eb99",
+    "content-hash": "a2892b1a2ee6d613e30cf87668e4f1e4",
     "packages": [
         {
             "name": "danielgelling/http",
-            "version": "dev-master",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/danielgelling/http.git",
@@ -39,9 +39,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "danielgelling/http": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

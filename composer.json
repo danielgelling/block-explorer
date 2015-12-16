@@ -9,6 +9,6 @@
         }
     ],
     "require": {
-        "danielgelling/http": "dev-master"
+        "danielgelling/http": "^0.1.1"
     }
 }
